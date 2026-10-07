@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Local database files
+*.db
+*.sqlite3
+*.db-journal
+
+# Testing cache and coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary files
+*.log
